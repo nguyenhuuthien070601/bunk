@@ -1,0 +1,77 @@
+:root {
+  --black: #000000;
+  --blue: #223daf;
+  --brick-red: #c12f48;
+  --dodger-blue: #2f88f0;
+  --pink: #fd8081;
+  --rose: #f64e4e;
+  --white: #ffffff;
+
+  --font-size-10px: 10px;
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 14px;
+  --font-size-xl: 30px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 8px;
+
+  --font-family-arco-regular: "ARCO", Helvetica;
+  --font-family-baloo-regular: "Baloo", Helvetica;
+  --font-family-barlow: "Barlow", Helvetica;
+}
+.menu {
+  font-family: var(--font-family-arco-regular);
+  font-size: var(--font-size-10px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.main {
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.brcinucom1920x1080defaultbarlowsemibold-14-upper {
+  font-family: var(--font-family-barlow);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.baloo-regular-normal-denim-blue-37px {
+  color: var(--blue);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-brick-red-53px {
+  color: var(--brick-red);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 53px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-denim-blue-30px {
+  color: var(--blue);
+  font-family: var(--font-family-baloo-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.baloo-regular-normal-brick-red-40px {
+  color: var(--brick-red);
+  font-family: var(--font-family-baloo-regular);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
